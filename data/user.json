@@ -1,0 +1,72 @@
+{
+    "vip": {
+        "ceo": {
+            "active": [
+                "albertoestirado@telebot.com",
+                "alfredoestirado@telebot.com"
+            ],
+            "inactive": [
+                "luciaruiz@telebot.com"
+            ]
+        },
+        "directiva": {
+            "active": [
+                "carlosdiaz@telebot.com",
+                "gemamartinez@telebot.com"
+            ],
+            "inactive": [
+                "nurialopez@telebot.com"
+            ]
+        },
+        "ciber": {
+            "active": [
+                "pablopiedrabuena@telebot.com",
+                "davidgarcia@telebot.com",
+                "miguelchacon@telebot.com",
+                "eduardobejarano@telebot.com",
+                "ramonfuentes@telebot.com",
+                "alfredoestirado@telebot.com",
+                "danielmolina@telebot.com",
+                "angelvillafuertes@telebot.com",
+                "jorgeesquinas@telebot.com",
+                "gonzalotejedor@telebot.com",
+                "christianposadas@telebot.com",
+                "fernandogarcia@telebot.com",
+                "victorluque@telebot.com",
+                "rafaelortega@telebot.com",
+                "antoniomillo@telebot.com",
+                "alvaroafonso@telebot.com",
+                "tonischaarchmidt@telebot.com",
+                "albertolopez@telebot.com",
+                "mariadiaz@telebot.com",
+                "daniellillo@telebot.com",
+                "deanpokorny@telebot.com",
+                "guillermoherreros@telebot.com"
+            ],
+            "inactive": [
+                "sandraandrade@telebot.com"
+            ]
+        }
+    },
+    "not vip": {
+        "otros": {
+            "active": [
+                "yolandacanada@telebot.com",
+                "yolandagarcia@telebot.com",
+                "yolandadiez@telebot.com",
+                "yolandamontero@telebot.com",
+                "yolandasantigo@telebot.com",
+                "yolandademiguel@telebot.com"
+            ],
+            "inactive": [
+                "martapeña@telebot.com",
+                "martaramos@telebot.com",
+                "martaperez@telebot.com",
+                "martagarcia@telebot.com",
+                "martaalvarez@telebot.com",
+                "martaramos@telebot.com",
+                "martaromero@telebot.com"
+            ]
+        }
+    }
+}
